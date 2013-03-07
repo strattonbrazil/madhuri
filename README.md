@@ -1,7 +1,6 @@
-madhuri
-=======
+# madhuri
 
-houdini FX development
+A collection of code for learning Houdini development
 
 # Installing Houdini Apprentice
 
@@ -11,7 +10,12 @@ For Ubuntu Linux, this gave me a tar.gz file I extracted to the temp directory. 
 
     sudo ./houdini.install
 
-This will take you through the install process.  Be sure to include the "Apprentice Licensing" option instead of "Commercial License Server".  After going through the rest of the default options, this installed Houdini in /opt/hfs12.1.230.  
+This will take you through the install process.  Be sure to include the "Apprentice Licensing" option instead of "Commercial License Server" and you have the appropriate version of your architecture (32-bit for 64-bit).  After going through the rest of the default options, this installed Houdini in /opt/hfs12.1.230.  
 
-I had some errors getting Houdini to run after that, but I'm tracking that in the [sidefx forums](http://www.sidefx.com/index.php?option=com_forum&Itemid=172&page=viewtopic&p=129307#129307).  
+After the install completes, run "installDesktopIcons.py" to get the icons linking to the install.  Run "Houdini FX", not "Houdini", to get the full version with all the capabilities.  
+
+# Installing Houdini Developer Kit
+
+The developer toolkit now comes installed with Houdini and can be found in the "toolkit" directory under the Houdini install.  
+
 
