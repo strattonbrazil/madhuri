@@ -18,10 +18,8 @@ After the install completes, run "installDesktopIcons.py" to get the icons linki
 
 The developer toolkit now comes installed with Houdini and can be found in the "toolkit" directory under the Houdini install.  
 
-<<<<<<< HEAD
 =======
-Collaborators: Josh Stratton, Varun Talwar
+Collaborators: Josh Stratton, Varun Talwar, Danny Sale
 
 Things we need to get done
->>>>>>> Added Collaborators
 
